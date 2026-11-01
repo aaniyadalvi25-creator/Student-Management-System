@@ -1,2 +1,3 @@
-Git Practical 
-hello world
+Git Practical
+This is my updated Git practical file.
+Changes committed directly through GitHub.
